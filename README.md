@@ -2,7 +2,6 @@
 
 Tic-Tac-Toe game written in vanilla javascript using redux-like approach.
 
-#### [Medium article](https://medium.com/@ramonvictor/tic-tac-toe-js-redux-pattern-in-plain-javascript-fffe37f7c47a) / [Github.io page](http://ramonvictor.github.io/tic-tac-toe-js/) / [Play the game](https://rocky-ocean-52527.herokuapp.com/)
 
 <img src="https://raw.githubusercontent.com/ramonvictor/tic-tac-toe-js/master/assets/tic-tac-toe.png" width="888" height="auto" alt="Mobile and desktop Tic-Tac-Toe.js screenshots">
 
