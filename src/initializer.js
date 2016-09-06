@@ -1,3 +1,4 @@
+//move all action objects to action creators
 document.addEventListener('DOMContentLoaded', function() {
 	var hash = window.location.hash;
 
