@@ -1,11 +1,11 @@
 # Tic-Tac-Toe.js
 
-Tic-Tac-Toe game written in vanilla javascript using redux-like approach.
+Tic-Tac-Toe game written in vanilla javascript.
 
 
 <img src="https://raw.githubusercontent.com/ramonvictor/tic-tac-toe-js/master/assets/tic-tac-toe.png" width="888" height="auto" alt="Mobile and desktop Tic-Tac-Toe.js screenshots">
 
-## How the game applies Redux pattern?
+
 
 It uses the unidirectional data flow:
 
