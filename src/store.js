@@ -1,4 +1,4 @@
-var subscribers = [];
+var subscribers = []; 
 var middlewares;
 
 function Store(mid) {
