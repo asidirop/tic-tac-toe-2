@@ -88,7 +88,7 @@ gulp.task('browser-sync', function() {
     });
 });
 
-// Reference: https://gist.github.com/sogko/b53d33d4f3b40d3b4b2e
+
 gulp.task('nodemon', function(cb) {
     return nodemon({
       script: 'index.js'
@@ -115,4 +115,4 @@ gulp.task('webpack', function() {
 //     gulp.watch(target.js_concat_src, ['webpack']).on('change', browserSync.reload);
 // });
 
-gulp.task('default', ['compass', 'js-lint', 'webpack', 'nodemon']);
+gulp.task('default', ['compass', 'js-lint', 'webpack', 'nodemon']); 
