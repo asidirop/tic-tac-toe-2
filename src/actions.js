@@ -25,4 +25,4 @@ exports.restart = function() {
 	return {
 		type: 'RESTART_GAME'
 	};
-};
+}; 
