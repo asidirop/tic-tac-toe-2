@@ -1,4 +1,4 @@
-function Winner(grid, lastTurn) {
+function Winner(grid, lastTurn) { 
 	this.dimensions = [this.getRows(), this.getColumns(), this.getDiagonals()];
 }
 
