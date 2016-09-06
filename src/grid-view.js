@@ -1,3 +1,4 @@
+// small change on render methods and Store constructor
 var utils = require('./utils');
 
 function GridView(table) {
