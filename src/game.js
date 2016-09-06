@@ -1,5 +1,5 @@
 // Application
-// logger only on dev mode
+
 var utils = require('./utils');
 var actions = require('./actions');
 var scoreView = require('./score-view');
