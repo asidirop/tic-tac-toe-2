@@ -1,4 +1,4 @@
-var utils = {};
+var utils = {}; 
 
 utils.qs = function(selector, context) {
 	context = context || document;
