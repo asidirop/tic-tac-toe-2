@@ -1,3 +1,4 @@
+// render fivicon based on player turn
 function FaviconView(head) {
 	this.$head = head;
 }
