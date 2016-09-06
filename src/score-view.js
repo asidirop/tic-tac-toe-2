@@ -27,4 +27,4 @@ ScoreView.prototype.turn = function(turn) {
 
 module.exports = function(players) {
 	return new ScoreView(players);
-};
+}; 
