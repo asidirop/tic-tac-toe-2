@@ -31,4 +31,4 @@ module.exports = function defineWinner(store) {
 			return result;
 		};
 	};
-};
+}; 
